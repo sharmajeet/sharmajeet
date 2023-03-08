@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Jeet Sharma</h1>
+<h3 align="center">A passionate Web developer from India</h3>
+
+<!-- <p align="left"> <a href="https://github.com/dracula/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmajeet" alt="sharmajeet" /></a> </p> -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development +DSA<br>👯 I’m looking for a person who good at AWS<br>🌱 I’m currently studying in B.Tech 4th sem CSE<br>💬 Ask me about Web Development, java, python,c++<br>⚡ Fun fact "My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why."
 
@@ -18,7 +28,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=jeetsharma&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
